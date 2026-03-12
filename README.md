@@ -54,3 +54,6 @@ Total Revenue
 Total Tips
 Average Fare
 
+**Dashboard**
+https://github.com/sanskritidobriyal/uber_data_analytics/blob/main/Uber%20dashboard.jpg
+
